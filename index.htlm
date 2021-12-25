@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Entering the mall</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <body bgcolour="bisque">
+
+    <img src="images/mall.jfif" width=400px>
+
+    <h1> Welcome to the Mall! </h1>
+
+    <p>
+      <em>
+      Hopefully you don't meet any karens.
+      <font color="darkorange"> Make sure you pick the right path!</font>
+      </em>
+    </p>
+
+    <a href="mall.html">Click here to enter the mall.</a>
+
+  </body>
+</html>
